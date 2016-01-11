@@ -1,0 +1,153 @@
+Total Revenue: $394380.25 Total Number of Products Sold: 41853
+
+Category Groups: Number of items purchased per group 
+
+Group: Food Quantity: 13611 
+Group: Beverage (non-alcohol) Quantity: 5159 
+Group: Beverage (alcohol) Quantity: 20854 
+Group: Misc Quantity: 978 
+Group: Snacks Quantity: 1251 
+
+Category Groups: Total revenue per group 
+
+Group: Food Revenue: 114939.5 
+Group: Beverage (non-alcohol) Revenue: 31303.25 
+Group: Beverage (alcohol) Revenue: 233116.0 
+Group: Misc Revenue: 7537.0 
+Group: Snacks Revenue: 7484.5 
+
+******************************************************
+Category Names: Number of items purchased per product 
+
+Total Number of Products: 31
+
+(Category Name: Quantity)
+Beer: 8502
+Beer-Draft: 6682
+Cold Drinks: 4502
+Hot Dogs/Sausage: 3395
+Liquor: 3289
+Fries: 3249
+Sandwiches: 1869
+Beer-Bot/Canned: 1519
+Nachos: 1422
+Pretzels: 979
+Wine: 862
+: 724
+Hamburger: 575
+Candy: 530
+Snacks & Sides: 524
+Specialty Food: 516
+Pizza: 481
+Hot Dogs: 474
+Popcorn: 426
+Hot Drinks: 401
+Subcontractor Fd: 196
+Coffee: 153
+Ice Cream: 145
+Misc. Food: 134
+Canned Soda: 85
+Bakery: 61
+Manual Food: 58
+Peanuts & Snacks: 52
+Soup: 28
+Soda: 18
+Branded Food: 2
+
+Category Names: Total revenue per product 
+
+(Category Name: Revenue)
+Beer: $88688.0
+Beer-Draft: $75412.0
+Liquor: $41438.0
+Fries: $30524.0
+Cold Drinks: $27940.5
+Hot Dogs/Sausage: $24069.0
+Sandwiches: $22229.0
+Beer-Bot/Canned: $16418.0
+Wine: $11160.0
+Nachos: $7608.0
+Pretzels: $7063.0
+Hamburger: $6435.0
+: $5290.75
+Pizza: $4760.0
+Specialty Food: $4266.5
+Popcorn: $3270.0
+Candy: $3264.0
+Hot Dogs: $3125.0
+Snacks & Sides: $2975.0
+Hot Drinks: $1849.5
+Subcontractor Fd: $1796.25
+Misc. Food: $1104.0
+Ice Cream: $1001.5
+Coffee: $993.75
+Canned Soda: $519.5
+Manual Food: $450.0
+Bakery: $271.0
+Peanuts & Snacks: $244.0
+Soup: $195.0
+Branded Food: $20.0
+Soda: $0.0
+
+******************************************************
+Stand Names: Top 25 sorted by items purchased:
+
+Total Number of Stands: 116
+
+(Stand Name: Quantity)
+Links 3109: 1235
+Brgrs & Chk 7309: 1216
+BBQ 3107: 1176
+Brgrs & Chk 7319: 1157
+Pizza 3112b: 1118
+NW Pav Bar 3145: 1117
+Chicken 3121: 1066
+SW Pav Bar 3131: 1060
+Burger 3118: 1039
+Franks 3105: 1004
+Pzza & Lnks 7315: 990
+Curry 3104: 987
+Tortas 3124: 981
+Franks 3132: 943
+Franks 3144: 912
+Chmp N C302: 867
+Chmp S C301: 832
+Franks 3126: 827
+Franks 3129: 818
+Asian 3127: 813
+Franks 7305: 747
+Franks 7325: 654
+BBQ 7306: 648
+501 Sports C410: 581
+501 Mn Bar C416: 548
+
+Stand Names: Top 25 sorted by revenue:
+
+(Stand Name: Revenue)
+Links 3109: $1235
+Brgrs & Chk 7309: $1216
+BBQ 3107: $1176
+Brgrs & Chk 7319: $1157
+Pizza 3112b: $1118
+NW Pav Bar 3145: $1117
+Chicken 3121: $1066
+SW Pav Bar 3131: $1060
+Burger 3118: $1039
+Franks 3105: $1004
+Pzza & Lnks 7315: $990
+Curry 3104: $987
+Tortas 3124: $981
+Franks 3132: $943
+Franks 3144: $912
+Chmp N C302: $867
+Chmp S C301: $832
+Franks 3126: $827
+Franks 3129: $818
+Asian 3127: $813
+Franks 7305: $747
+Franks 7325: $654
+BBQ 7306: $648
+501 Sports C410: $581
+501 Mn Bar C416: $548
+
+******************************************************
